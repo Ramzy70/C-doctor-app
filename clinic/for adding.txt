@@ -1,0 +1,33 @@
+name of cabinet
+nom du docteur											ville du cabinet
+name of specialite du docteur  									nom prenom du patient
+												date de naissance du patient
+numero telephone du docteur
+id du l'ordonance
+
+						ordonance
+
+
+medicament                                la durée
+portion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+address du cabinet
+email du docteur

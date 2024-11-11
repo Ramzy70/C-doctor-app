@@ -1,0 +1,41 @@
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.csproj.AssemblyReference.cache
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.GeneratedMSBuildEditorConfig.editorconfig
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.AssemblyInfoInputs.cache
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.AssemblyInfo.cs
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.csproj.CoreCompileInputs.cache
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\pdf test.exe
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\pdf test.deps.json
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\pdf test.runtimeconfig.json
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\pdf test.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\pdf test.pdb
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.barcodes.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.forms.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.io.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.kernel.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.layout.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.pdfa.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.pdfua.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.sign.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.svg.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.commons.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.html2pdf.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.csproj.Up2Date
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\refint\pdf test.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.pdb
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\pdf test.genruntimeconfig.cache
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\obj\Debug\net8.0\ref\pdf test.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\z_Dev\desktop\pdf generator test\pdf test\pdf test\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
